@@ -71,10 +71,16 @@ en LATAM/España/USA (2024-2026). Es el "por qué" detrás de todos los formatos
 
 ### 2.2 Referentes que sí escalaron (para copiar mecánicas, no copiar persona)
 
-- **LATAM/España:** @iaenlinea (332K), @juanmerodio (356K), @xavier_mitjana (86K),
+- **LATAM/España:** @iaenlinea (332K, divulgador faceless de herramientas), @juanmerodio (356K,
+  hook contrario anclado a estudios), @xavier_mitjana (86K, demos paso a paso),
   @aceleradorkaizen (dúo Juan+Bea, "IA y automatizaciones para negocios" — **el más parecido a un
-  dúo B2B**), @hackeatutiempo (62K), @luzzidigital (caso documentado: reel de 100K vistas → 500
-  emails en 48h con disparador de palabra clave + ManyChat).
+  dúo B2B**; usa "Comenta CLAUDE → DM" y storytelling de pareja), @hackeatutiempo (62K, maestro del
+  "escribe ENLACE en comentarios → DM"), @luzzidigital (Paula Luzzi, Argentina, escuela de marketing
+  que documenta el método "Comentá la palabra X" + ManyChat → landing).
+  > El **"comenta PALABRA → DM"** está confirmado verbatim en @hackeatutiempo, @aceleradorkaizen y
+  > @luzzidigital; @iaenlinea y @xavier_mitjana NO lo usan (van a link-en-bio/curso) → es un
+  > diferenciador de conversión, no algo universal. **Hueco de mercado:** casi nadie publica casos de
+  > éxito de cliente con datos reales (BOFU) — ahí está el espacio de Zenaluz.
 - **USA/EN:** Nick Saraev (521K — rey del "comenta PALABRA → DM automático"), Liam Ottley (creador
   del modelo "AI Automation Agency"), Jordan Platten. Todos usan Instagram como **top-of-funnel** y
   cierran en DM/llamada.
@@ -336,8 +342,10 @@ Ayudamos a [negocios/clínicas/ecommerce] a [recuperar horas y vender más] con 
 2. **Copia la mecánica de nexum.ai, no su estética.** El modelo "practitioner que enseña" + hook
    contrario funciona y es verificable. Diferénciate con personalidad de pareja y prueba real.
 3. **El sistema gana al video viral.** Un reel viral sin embudo de DM es alcance desperdiciado.
-   Monta ManyChat desde el día 1 con una palabra clave por post. El caso de Luzzi (500 emails en 48h)
-   muestra el techo de esta mecánica.
+   Monta ManyChat desde el día 1 con una palabra clave por post. Luzzi Digital documenta públicamente
+   esta mecánica ("comentá la palabra X" + ManyChat → landing) y afirma que le aumentó la base de datos
+   de forma sostenida durante meses (la cifra que circula de "500 emails en 48h" NO es verificable —
+   trátala como rumor, no como benchmark).
 4. **60/30/10 desde el principio.** No publiques solo tips (alcance sin conversión) ni solo ofertas
    (conversión sin alcance). Mezcla.
 5. **Empieza en 3-4 posts/semana, no en diario.** Mejor pocos buenos que muchos mediocres; el
@@ -366,7 +374,8 @@ tema y medir skip rate a 3s.
 
 Estrategia basada en investigación multi-fuente (2024-2026): benchmarks de Socialinsider, Buffer
 (estudios de 2M+ y 9.6M posts), Sprout Social, Later, Emplifi, Rival IQ; actualizaciones del
-algoritmo de Adam Mosseri (dic-2025: sends como señal #1, límite de 5 hashtags); casos LATAM
-documentados (Luzzi Digital + ManyChat); y análisis de cuentas de referencia (@nexum.ai,
+algoritmo de Adam Mosseri (dic-2025: sends como señal #1 para alcanzar no-seguidores, watch-time
+como señal #1 global, límite de 5 hashtags); mecánica "comentá la palabra X" + ManyChat documentada
+por Luzzi Digital (cifras de leads auto-reportadas, no verificadas); y análisis de cuentas de referencia (@nexum.ai,
 @iaenlinea, @juanmerodio, @aceleradorkaizen, Nick Saraev, Liam Ottley). Las cifras de resultados
 auto-reportadas por creadores se tratan como direccionales, no verificadas.
