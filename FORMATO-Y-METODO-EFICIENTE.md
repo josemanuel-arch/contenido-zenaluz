@@ -1,0 +1,65 @@
+# Formato de los videos y método eficiente (sin memorizar guiones)
+
+> Regla base: **el guion es un mapa, no un libreto.** Solo van EXACTOS el **gancho** (primeros 3s) y
+> el **CTA** (la frase final). Todo lo del medio se dice con tus palabras. Como son dos personas, lo
+> más eficiente es convertirlo en **conversación**: no recitan, conversan.
+
+---
+
+## El formato del video (qué se ve)
+- Vertical **9:16**, los dos en **cortes alternados A→B→A** (cada corte sostiene la atención).
+- **Subtítulos por hablante** (siempre).
+- **Gancho con texto grande** en el primer cuadro.
+- Para tips/demos: **grabación de pantalla** (ChatGPT, el flujo) encima de la voz.
+- Audio en tendencia a bajo volumen + su voz encima.
+
+---
+
+## Cómo usar el guion (de libreto a mapa)
+De cada guion en `/guiones/` solo necesitas 3 cosas:
+1. **El gancho** → dilo casi exacto (es lo que decide si se quedan).
+2. **2-3 puntos** → los dices con tus palabras, en el orden del guion.
+3. **El CTA** → exacto (sobre todo la palabra clave, si la lleva).
+
+El resto (la columna AUDIO palabra por palabra) es solo una **referencia** por si te trabas. No se memoriza.
+
+---
+
+## Los 4 métodos para grabar sin memorizar (elige)
+
+**1. Conversación real a dos voces — RECOMENDADO (el más eficiente).**
+A hace la pregunta/gancho, B responde improvisando. Es una charla con un mapa, no un libreto.
+Del guion respetas: quién abre · los puntos a tocar · el CTA. Sale natural y sin memorizar.
+
+**2. Un teléfono cada uno (para el look de cortes alternados).**
+Conversan en vivo y **cada uno se graba a sí mismo** con su teléfono al mismo tiempo. Luego cortas
+entre los dos clips → parece muy editado, pero solo tuvieron una conversación. (Sincroniza por una
+palmada al inicio o por el audio.)
+
+**3. Voz en off + pantalla (para tips, cero cámara-memoria).**
+Grabas la pantalla (ChatGPT, el demo) y **narras libre** por encima. No hay líneas que recordar.
+
+**4. Teleprómpter solo para gancho y CTA.**
+Pones esas dos frases en la app de Notas pegada al lente (o una app de teleprompter gratis) y el resto
+lo improvisas. Así clavas lo que debe ir exacto sin leer todo.
+
+---
+
+## La regla de eficiencia (para que no te queme)
+- **Exacto solo:** gancho + CTA. Lo demás, tus palabras.
+- **Graba de más, corta tight:** dilo 2-3 veces y quédate con la mejor toma. La **edición** hace el
+  trabajo pesado (cortar lo flojo, quitar pausas).
+- **Graba en lote:** todos los videos de una sentada (más fácil que vencer la cámara cada día).
+- **Máx. 3 tomas por idea.** A la tercera, esa se queda y se arregla en edición. Hecho > perfecto.
+- **Deja colas:** que B empiece con "Mira—", "Exacto—" para que el editor pueda intercalar limpio.
+
+---
+
+## Flujo de una sesión (ejemplo, ~1 hora para 4 videos)
+1. Lee el mapa de los 4 guiones (gancho + puntos + CTA). 5 min.
+2. Por cada video: graban la **conversación** (método 1 o 2), 2-3 tomas. ~10 min c/u.
+3. Captura aparte los **screen recordings** de los demos. 10 min.
+4. Listo: material crudo para 4 reels. La edición (CapCut) viene después.
+
+> Resultado: no memorizas nada, grabas rápido, y el formato (cortes alternados + subtítulos + demo)
+> lo construye la edición, no tu memoria.
