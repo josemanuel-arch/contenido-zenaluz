@@ -23,9 +23,51 @@
 **Prepara ChatGPT (clave para el demo)**
 1. Abre ChatGPT en el celular y pega el prompt "Analista de gastos" (está en `/recursos/2026-06-28_lead-magnet_gastos-prompt.md`) con una **lista de gastos de ejemplo**.
 2. Deja que ChatGPT genere la respuesta **antes** de grabar, para capturar el resultado limpio.
-3. Ajusta la lista de ejemplo para que el resultado muestre: **"Comida fuera/Delivery ≈ 31%"**, **3 suscripciones** (una "sin usar"), y una **fuga total ≈ $2,400/año**.
-4. ⚠️ **Una sola cifra en todo el video: $2,400/año.** Si ChatGPT da otra, ajusta la lista o cambia la cifra del guion para que cuadren.
+3. Usa la lista de la sección **"Datos de ejemplo"** (más abajo). Con ella el resultado muestra: **Comida fuera/Delivery ≈ 31%**, **3 streamings** (Netflix, Disney+, HBO Max) y **HBO Max sin usar hace 2 meses**.
+4. ⚠️ **Una sola cifra en todo el video: $2,400/año** = lo que cuesta el streaming sin usar (HBO Max $199 × 12 = $2,388 ≈ $2,400). Si ChatGPT redondea distinto, usa $2,400.
 5. Usa el símbolo **$ genérico** (no "pesos") para no excluir a España.
+
+---
+
+## 🧾 Datos de ejemplo (pega ESTO en ChatGPT antes de grabar)
+
+Pégalo tal cual en ChatGPT (celular) y deja la respuesta lista **antes** de grabar. Con esta lista
+sale: comida/delivery ≈ **31%**, 3 streamings, **HBO Max sin usar** = $199/mes ≈ **$2,400/año**.
+
+```
+Actúa como analista de mis gastos personales. Revisa mis gastos del último mes
+y háblame claro y directo, como si no supiera de finanzas: sin tecnicismos y
+con números concretos. Mi moneda es $ (genérico).
+
+Hazme esto en orden y MUÉSTRAME EL DESGLOSE EN UNA TABLA:
+1. CATEGORÍAS: agrupa los gastos en categorías. Para cada una, total y % del
+   gasto total del mes, ordenadas de mayor a menor (en tabla).
+2. RADIOGRAFÍA EN 3 LÍNEAS: dime sin rodeos dónde se me va el dinero.
+3. FUGAS: detecta suscripciones de streaming que quizá no uso, gasto alto en
+   comida fuera/delivery y compras evitables. Marca cada fuga con su costo
+   mensual y anual.
+4. TRES RECORTES REALISTAS (sin "deja de tomar café"): qué recorto, ahorro al
+   mes y al año. Suma el ahorro anual total.
+5. PLAN SIMPLE DE 3 PASOS para este mes.
+
+Usa los montos reales de mi lista, no inventes. Sé honesto pero motívame.
+
+AQUÍ ESTÁN MIS GASTOS DEL MES:
+Renta (compartida) 2200
+Súper / despensa 1200
+Uber Eats / Rappi 1400
+Restaurantes y salidas a comer 700
+Café y snacks fuera 380
+Gasolina / transporte 800
+Netflix 219
+Disney+ 159
+HBO Max (sin usar hace 2 meses) 199
+Celular / plan 350
+Compras / Amazon 400
+```
+
+> Si la tabla sale muy larga para pantalla vertical, pídele: *"hazme la tabla más compacta"*.
+> El streaming sin usar (HBO Max) saldrá en ≈ $2,388/año → en el overlay redondea a **$2,400**.
 
 ---
 
@@ -40,12 +82,12 @@
 **Qué mostrar en pantalla (graba ChatGPT):**
 1. Arranca mostrando la **tabla de resultados ya generada** (el resultado, no el proceso).
 2. Zoom/resalta la fila **"Comida fuera / Delivery — 31%"**.
-3. Baja a las **suscripciones**; marca con el dedo la que dice **"sin usar hace 2 meses"**.
-4. Muestra el total grande: **"Fugas detectadas: $2,400 al año"**.
+3. Baja a los **3 streamings** (Netflix, Disney+, HBO Max); marca con el dedo **HBO Max — "sin usar hace 2 meses"**.
+4. Muestra en grande el costo de ese streaming sin usar: **"$2,400 al año"**.
 5. Overlay pequeño y legible: `Contenido educativo, no asesoría financiera`.
 
 - **Dice (María):**
-  > "Mira el veredicto: 31% del mes en comida fuera y delivery. Y tres suscripciones activas —una no la tocas hace dos meses. Súmalo: dos mil cuatrocientos al año fugándose sin que lo notes."
+  > "Mira el veredicto: 31% del mes en comida fuera y delivery. Y de tres streamings, uno —HBO Max— no lo abres hace dos meses: dos mil cuatrocientos al año, tirados."
 
 ## 3) BODY 2 — José · voz en off + pantalla · ~14s · (EL CÓMO + privacidad)
 **Qué mostrar en pantalla (graba ChatGPT):**
@@ -69,7 +111,7 @@
 Palabra clave **GASTOS** → DM con el prompt "Analista de gastos" (`/recursos/2026-06-28_lead-magnet_gastos-prompt.md`). Un solo CTA. Al inicio respondes a mano; luego lo automatizas con ManyChat.
 
 ## ✍️ Caption (keyword en los primeros 125 caracteres)
-Le di mis gastos del mes a ChatGPT y me dijo dónde se me va el dinero (no era el café). La fuga real eran $2,400 al año.
+Le di mis gastos del mes a ChatGPT y me dijo dónde se me va el dinero. No era el café: era un streaming que no abro hace 2 meses, $2,400 al año.
 El prompt exacto para auditar tus gastos con IA en 2 minutos: comenta **GASTOS** 👇
 Sin compartir ni un dato de tu banco. Contenido educativo, no asesoría financiera.
 `#finanzaspersonales #inteligenciaartificial #chatgpt #ahorro #iaparatudia`
