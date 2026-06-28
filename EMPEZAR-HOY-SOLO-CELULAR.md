@@ -7,22 +7,21 @@
 
 ## 1. Lo que tienes que dejar listo en Instagram (15–20 min, desde el celular)
 
-> **Modelo de marca:** marca personal sobre sus nombres (Jose y Mari), los dos como rostro 50/50.
-> "Zenaluz" se mantiene como el nombre de la **agencia** a la que mandas los leads (landing/propuesta);
-> la cuenta de Instagram es personal (sus caras + primera persona).
+> **Modelo de marca:** marca personal bajo el nombre **Jomi** (mezcla de JOsé + MarÍa Inés), los dos
+> como rostro 50/50. "Zenaluz" se mantiene como el nombre de la **agencia** a la que mandas los leads
+> (landing/propuesta); la cuenta de Instagram es personal (sus caras + primera persona, "Somos Jomi").
 
 - [ ] **Cuenta profesional:** Configuración → Cuenta → Cambiar a cuenta profesional (gratis).
-- [ ] **@ (handle):** **@joseymaria.ia** (recomendado) o **@joseymaria.ai**. Mantén siempre la "y" + el
-      sufijo `.ia` para que quede claro que son DOS personas (sin la "y", `@josemaria` se lee "José
-      María", un solo nombre). Comprueba disponibilidad en la app; usa el mismo en TikTok/YouTube.
-      Alternativas si están ocupados: `@joseymaria.automatiza` · `@ia.joseymaria`.
+- [ ] **@ (handle):** **@jomi.ia** (recomendado) o **@jomi.automatiza**. Comprueba disponibilidad en la
+      app; usa el mismo en TikTok/YouTube. Alternativas si están ocupados: `@jomi.ai` ·
+      `@jomi.iaparanegocios` · `@somosjomi`.
 - [ ] **Foto de perfil** legible en miniatura (los dos; la cara da confianza al arrancar).
-- [ ] **Nombre con keyword** (campo "Nombre", NO el @): **"José y María · IA para negocios"**.
+- [ ] **Nombre con keyword** (campo "Nombre", NO el @): **"Jomi · IA para negocios"**.
       Ese campo se indexa para búsqueda.
 - [ ] **Bio provisional** (sin ManyChat todavía; CTA simple):
   ```
-  Somos José y María — automatizamos negocios con IA, sin tecnicismos
-  Montamos sistemas que recuperan horas y traen ventas · Agencia: Zenaluz
+  Jomi · Somos José y María y automatizamos negocios con IA, sin tecnicismos
+  Sistemas que recuperan horas y traen ventas · Agencia: Zenaluz
   👇 Escríbenos "IA" por DM
   ```
 - [ ] Eso es todo para empezar. El lead magnet y el "comenta PALABRA" automático vienen después.
