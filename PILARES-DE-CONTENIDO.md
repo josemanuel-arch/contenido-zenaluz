@@ -73,6 +73,38 @@
 
 ---
 
+## Cómo intercalar VIRAL ↔ NEGOCIO (el ritmo de publicación)
+
+Los virales traen el público; los de negocio lo convierten. Se alternan; no se publican por separado.
+
+**🔥 Cubo A — Prácticos / virales (alcance).** Pilares 1 y 2. CTA blando (guarda/comparte). No se vende.
+→ Guiones: `09` tip resúmenes · `10` finde con IA · `05` tutorial 60s · `03` debate.
+
+**💼 Cubo B — Atraer negocios (valor + venta media).** Pilares 3 y 5. **Valor primero, venta suave.**
+CTA: comenta PALABRA / DM. → Guiones: `02` antes/después · `04` mito vs realidad · `07` 3 automatizaciones
+· `06` competencia · `08` caso. (`01` presentación = marca, va fijado en el perfil.)
+
+### Las 2 reglas
+1. **Arranca 2 virales : 1 negocio** las primeras 2-3 semanas (construir audiencia antes de vender);
+   luego asiéntate en **~1:1 alternando**.
+2. **El puente:** en virales, a veces cierra con "esto mismo lo montamos para negocios" (o comentario
+   fijado). En negocio, **abre con valor/demo** y deja la venta al final (**80% valor / 20% pedir**).
+
+### Plan intercalado de 2 semanas (con tus guiones)
+| Día | Tipo | Qué | Guion |
+|---|---|---|---|
+| S1·Lun | 🔥 Viral | Tip resúmenes ChatGPT | `09` |
+| S1·Mié | 💼 Negocio | Antes/después de automatizar | `02` |
+| S1·Vie | 🔥 Viral | Planear el finde con IA | `10` |
+| S1·Sáb | 🏷️ Marca | Presentación de Jomi (fijar) | `01` |
+| S2·Lun | 🔥 Viral | Tutorial 60s (un truco) | `05` |
+| S2·Mié | 💼 Negocio | Mito vs realidad | `04` |
+| S2·Vie | 🔥 Viral | Debate a dos voces | `03` |
+| S2·Sáb | 💼 Negocio (venta media) | 3 automatizaciones (lead) | `07` |
+
+> `06` (competencia) y `08` (caso de éxito) entran después, cuando la audiencia esté más caliente y/o
+> tengas ManyChat listo. Stories **diarias** entre medias (tips sueltos, encuestas, BTS).
+
 ## Regla de oro del mix
 1. **Hilo conductor en todo:** "IA práctica que te ahorra tiempo". Si una idea no encaja ahí, no va.
 2. **~40% sigue apuntando al negocio** (pilares 3 y 5): es lo que trae clientes.
