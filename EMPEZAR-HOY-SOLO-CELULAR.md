@@ -11,19 +11,20 @@
 > como rostro 50/50. "Zenaluz" se mantiene como el nombre de la **agencia** a la que mandas los leads
 > (landing/propuesta); la cuenta de Instagram es personal (sus caras + primera persona, "Somos Jomi").
 
-- [ ] **Cuenta profesional:** Configuración → Cuenta → Cambiar a cuenta profesional (gratis).
-- [ ] **@ (handle):** **@jomi.ia** (recomendado) o **@jomi.automatiza**. Comprueba disponibilidad en la
-      app; usa el mismo en TikTok/YouTube. Alternativas si están ocupados: `@jomi.ai` ·
-      `@jomi.iaparanegocios` · `@somosjomi`.
-- [ ] **Foto de perfil** legible en miniatura (los dos; la cara da confianza al arrancar).
-- [ ] **Nombre con keyword** (campo "Nombre", NO el @): **"Jomi · IA para negocios"**.
-      Ese campo se indexa para búsqueda.
-- [ ] **Bio provisional** (sin ManyChat todavía; CTA simple):
+- [x] **Cuenta profesional:** creada → **@jomia.ia** (mismo @ en TikTok/YouTube si está libre).
+- [ ] **Foto de perfil** legible en miniatura: ideal una **foto de los dos**, caras visibles y buena
+      luz (la cara convierte más que un logo). Provisional: fondo liso con "Jomi" en grande.
+- [ ] **Nombre con keyword** (campo "Nombre", NO el @): actual "José y María · IA y Automatización".
+      Opcional apretar la keyword de cliente: **"José y María · IA para negocios"** ("negocios" es lo
+      que busca tu público). Ese campo se indexa para búsqueda.
+- [ ] **Bio optimizada** (≤150 caracteres, sin ManyChat todavía; CTA simple):
   ```
-  Jomi · Somos José y María y automatizamos negocios con IA, sin tecnicismos
-  Sistemas que recuperan horas y traen ventas · Agencia: Zenaluz
+  Ayudamos a negocios a recuperar horas y vender más con IA
+  Automatización sin tecnicismos · Somos José y María
   👇 Escríbenos "IA" por DM
   ```
+  Fórmula: a quién ayudas + resultado + diferenciador + 1 CTA. Keywords "IA/automatización/negocios"
+  para el SEO de Instagram. (Zenaluz queda como la agencia para la landing/propuesta, no en la bio.)
 - [ ] Eso es todo para empezar. El lead magnet y el "comenta PALABRA" automático vienen después.
 
 ---
