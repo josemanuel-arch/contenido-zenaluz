@@ -6,6 +6,28 @@
 
 ---
 
+## ⭐ El formato estrella de Jomi: cara → pantalla → cara ("sándwich")
+El formato por defecto para tips/demos. Junta lo eficiente con el diferenciador (las dos caras):
+
+```
+HOOK    → cara de A a cámara (≤3s): suelta el gancho, con texto en pantalla
+CUERPO  → grabación de pantalla (ChatGPT/demo) + AMBAS voces en off, alternando
+CTA     → cara de B a cámara (≤3s): el cierre / la llamada a la acción
+```
+
+Por qué funciona: enganchas con una cara real, el demo es la prueba (fácil, sin memorizar), las dos
+voces mantienen el dúo, y cierras con la otra cara → no te vuelves faceless.
+
+**Reglas:** hook ≤3s (transición rápida a pantalla) · en el cuerpo **alternen las dos voces** (uno
+explica, el otro añade) · **roten quién hace hook y quién CTA** entre videos (que ninguno sea "solo
+el del hook") · subtítulos por hablante.
+
+**Cómo grabarlo (celular):** (1) A graba el hook a cámara · (2) graban la pantalla del demo · (3) cada
+uno graba su voz para el cuerpo (se monta en CapCut, alternando) · (4) B graba el CTA a cámara · (5)
+edición: cara → pantalla → cara + subtítulos. Ideal para `09`, `05`, `07`, `02`.
+
+---
+
 ## El formato del video (qué se ve)
 - Vertical **9:16**, los dos en **cortes alternados A→B→A** (cada corte sostiene la atención).
 - **Subtítulos por hablante** (siempre).
