@@ -38,6 +38,14 @@ palmada al inicio o por el audio.)
 
 **3. Voz en off + pantalla (para tips, cero cámara-memoria).**
 Grabas la pantalla (ChatGPT, el demo) y **narras libre** por encima. No hay líneas que recordar.
+Ideal para: `09`, `05`, `07`, `02` (donde el valor está en la pantalla).
+- **Aunque sea voz en off, alternen las dos voces** (José pregunta → María responde): mantienes el
+  formato dúo aunque no salgan en cámara.
+- **El gancho sigue en los primeros 3s:** texto grande + arranca mostrando **el resultado**, no el proceso.
+- ⚠️ **No hagas TODO faceless.** Si nunca aparecen, pierdes su mayor ventaja (las dos caras = confianza
+  + engagement) y se convierte peor a clientes. Reserva la cámara para `01`, `03`, `10`, `08`.
+- **Punto medio ideal:** pantalla **+ burbujita de la cara en una esquina** (cámara + screen recording
+  a la vez, estilo Riley Brown). Tienes el demo Y la cara. CapCut lo hace fácil.
 
 **4. Teleprómpter solo para gancho y CTA.**
 Pones esas dos frases en la app de Notas pegada al lente (o una app de teleprompter gratis) y el resto
