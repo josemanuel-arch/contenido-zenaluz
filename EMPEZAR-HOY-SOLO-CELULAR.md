@@ -17,14 +17,14 @@
 - [ ] **Nombre con keyword** (campo "Nombre", NO el @): actual "José y María · IA y Automatización".
       Opcional apretar la keyword de cliente: **"José y María · IA para negocios"** ("negocios" es lo
       que busca tu público). Ese campo se indexa para búsqueda.
-- [ ] **Bio optimizada** (≤150 caracteres, sin ManyChat todavía; CTA simple):
+- [ ] **Bio optimizada** (≤150 caracteres, enfoque orgánico vida + negocio; sin ManyChat todavía):
   ```
-  Ayudamos a negocios a recuperar horas y vender más con IA
-  Automatización sin tecnicismos · Somos José y María
-  👇 Escríbenos "IA" por DM
+  IA práctica para tu día a día y tu negocio
+  Tips, trucos y automatizaciones — sin tecnicismos · José y María
+  👇 Escríbenos "IA"
   ```
-  Fórmula: a quién ayudas + resultado + diferenciador + 1 CTA. Keywords "IA/automatización/negocios"
-  para el SEO de Instagram. (Zenaluz queda como la agencia para la landing/propuesta, no en la bio.)
+  Hilo conductor: "IA práctica que te ahorra tiempo" (ver `PILARES-DE-CONTENIDO.md`). Keywords
+  "IA/automatizaciones" para el SEO. (Zenaluz queda como la agencia para la landing, no en la bio.)
 - [ ] Eso es todo para empezar. El lead magnet y el "comenta PALABRA" automático vienen después.
 
 ---
