@@ -12,14 +12,16 @@
 > la cuenta de Instagram es personal (sus caras + primera persona).
 
 - [ ] **Cuenta profesional:** Configuración → Cuenta → Cambiar a cuenta profesional (gratis).
-- [ ] **@ (handle):** **@joseymari** (recomendado) o **@jose.ines**. Comprueba disponibilidad en la app;
-      usa el mismo en TikTok/YouTube. Si está ocupado, ve a `@joseymari.ia` antes que a números/guiones.
+- [ ] **@ (handle):** **@joseymaria.ia** (recomendado) o **@joseymaria.ai**. Mantén siempre la "y" + el
+      sufijo `.ia` para que quede claro que son DOS personas (sin la "y", `@josemaria` se lee "José
+      María", un solo nombre). Comprueba disponibilidad en la app; usa el mismo en TikTok/YouTube.
+      Alternativas si están ocupados: `@joseymaria.automatiza` · `@ia.joseymaria`.
 - [ ] **Foto de perfil** legible en miniatura (los dos; la cara da confianza al arrancar).
-- [ ] **Nombre con keyword** (campo "Nombre", NO el @): **"Jose y Mari · IA para negocios"**
-      (si usan Inés: "Jose e Inés · IA para negocios"). Ese campo se indexa para búsqueda.
+- [ ] **Nombre con keyword** (campo "Nombre", NO el @): **"José y María · IA para negocios"**.
+      Ese campo se indexa para búsqueda.
 - [ ] **Bio provisional** (sin ManyChat todavía; CTA simple):
   ```
-  Somos Jose y Mari — automatizamos negocios con IA, sin tecnicismos
+  Somos José y María — automatizamos negocios con IA, sin tecnicismos
   Montamos sistemas que recuperan horas y traen ventas · Agencia: Zenaluz
   👇 Escríbenos "IA" por DM
   ```
