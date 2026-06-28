@@ -1,0 +1,5 @@
+# Ignorar todos los archivos pesados de video/audio de esta carpeta (no van a git)
+*
+# pero conservar la estructura y las instrucciones
+!.gitignore
+!README.md

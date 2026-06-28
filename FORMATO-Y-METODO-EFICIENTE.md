@@ -22,6 +22,14 @@ voces mantienen el dúo, y cierras con la otra cara → no te vuelves faceless.
 explica, el otro añade) · **roten quién hace hook y quién CTA** entre videos (que ninguno sea "solo
 el del hook") · subtítulos por hablante.
 
+**Estructura fija de 4 bloques (SIEMPRE una de estas dos formas):**
+- **Forma A:** Hook **José** → Body 1 **María** → Body 2 **José** → CTA **María**
+- **Forma B:** Hook **María** → Body 1 **José** → Body 2 **María** → CTA **José**
+
+Es decir: 4 bloques (Hook · Body 1 · Body 2 · CTA), las voces se alternan en cada bloque, y se rota
+la Forma A/B entre videos para que ambos sean rostro por igual. Body 1 = el resultado/payoff; Body 2 =
+el cómo/los pasos.
+
 **Cómo grabarlo (celular):** (1) A graba el hook a cámara · (2) graban la pantalla del demo · (3) cada
 uno graba su voz para el cuerpo (se monta en CapCut, alternando) · (4) B graba el CTA a cámara · (5)
 edición: cara → pantalla → cara + subtítulos. Ideal para `09`, `05`, `07`, `02`.
