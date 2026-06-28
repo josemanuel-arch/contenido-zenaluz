@@ -7,15 +7,21 @@
 
 ## 1. Lo que tienes que dejar listo en Instagram (15–20 min, desde el celular)
 
+> **Modelo de marca:** marca personal sobre sus nombres (Jose y Mari), los dos como rostro 50/50.
+> "Zenaluz" se mantiene como el nombre de la **agencia** a la que mandas los leads (landing/propuesta);
+> la cuenta de Instagram es personal (sus caras + primera persona).
+
 - [ ] **Cuenta profesional:** Configuración → Cuenta → Cambiar a cuenta profesional (gratis).
-- [ ] **Foto de perfil** legible en miniatura (logo simple o los dos; la cara da confianza al arrancar).
-- [ ] **Nombre con keyword:** en el campo "Nombre" no pongas solo "Zenaluz" → pon **"Zenaluz · IA para
-      negocios"** (ese campo se indexa para búsqueda).
+- [ ] **@ (handle):** **@joseymari** (recomendado) o **@jose.ines**. Comprueba disponibilidad en la app;
+      usa el mismo en TikTok/YouTube. Si está ocupado, ve a `@joseymari.ia` antes que a números/guiones.
+- [ ] **Foto de perfil** legible en miniatura (los dos; la cara da confianza al arrancar).
+- [ ] **Nombre con keyword** (campo "Nombre", NO el @): **"Jose y Mari · IA para negocios"**
+      (si usan Inés: "Jose e Inés · IA para negocios"). Ese campo se indexa para búsqueda.
 - [ ] **Bio provisional** (sin ManyChat todavía; CTA simple):
   ```
-  Automatizamos negocios con IA — sin tecnicismos
-  2 socios montando sistemas que recuperan horas y traen ventas
-  👇 Escríbenos por DM
+  Somos Jose y Mari — automatizamos negocios con IA, sin tecnicismos
+  Montamos sistemas que recuperan horas y traen ventas · Agencia: Zenaluz
+  👇 Escríbenos "IA" por DM
   ```
 - [ ] Eso es todo para empezar. El lead magnet y el "comenta PALABRA" automático vienen después.
 
